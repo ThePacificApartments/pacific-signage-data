@@ -1,0 +1,79 @@
+{
+  "_about": "Edit this list to steer the weekly refresh. Nothing here is code. exclude_title_contains: any event whose title contains one of these words is skipped. featured_title_contains: the soonest matching event becomes the big feature at the top of the slide. venue_names: friendly venue names for street addresses. descriptions: your own wording for a specific event title.",
+  "exclude_title_contains": [
+    "class",
+    "classes",
+    "lesson",
+    "playgroup",
+    "meeting",
+    "networking",
+    "business after five",
+    "quiz night",
+    "open mic",
+    "dance & music",
+    "bay home show",
+    "arts awards",
+    "workshop",
+    "lecture",
+    "disco",
+    "pop up",
+    "pop-up",
+    "paint and wine"
+  ],
+  "featured_title_contains": [
+    "gindulgence",
+    "city to surf",
+    "famous last words",
+    "kingston calling",
+    "ten tenors",
+    "festival",
+    "new year"
+  ],
+  "venue_names": {
+    "11 Totara St": "Totara Street, Mount Maunganui",
+    "81 Truman L": "Mercury Baypark, Mount Maunganui",
+    "95 Newton St": "Soper Reserve, Mount Maunganui",
+    "73 Jean Batten": "Tauranga Airport, Mount Maunganui",
+    "Blake Park": "Blake Park, Mount Maunganui",
+    "Bay Oval": "Bay Oval, Mount Maunganui",
+    "Coronation Park": "Coronation Park, Mount Maunganui",
+    "Marine Parade": "Marine Parade, Mount Maunganui",
+    "The Mall": "The Mall, Mount Maunganui"
+  },
+  "descriptions": {
+    "urban wine walk": "A self-guided afternoon wandering the Mount’s coolest venues, tasting local wines and meeting the winemakers.",
+    "louis baker": "The acclaimed multi-instrumentalist and songwriter celebrates his second album, Trouble, on a nationwide tour.",
+    "little big markets": "Live music, coffee, street food, market stalls, workshops and games – a monthly market with great community vibes.",
+    "flamingo pier": "After a decade building dancefloors worldwide, Flamingo Pier come home with a full live band to launch their new album.",
+    "mudhoney": "Seattle grunge legends return to New Zealand for the first time in over a decade, for a run of intimate shows.",
+    "run the runway": "A family-friendly community fun run on an airport runway as the sun sets – a rare chance to run it.",
+    "mount comedy club": "A big night of stand-up comedy at the Mount’s monthly comedy club.",
+    "gindulgence": "New Zealand’s most celebrated gin festival – an afternoon of tastings and cocktails from the world of NZ spirits.",
+    "city to surf": "The iconic beachfront run with its sand finish line – with the City to Surf, half marathon and 5 km on offer.",
+    "no days off": "An international line-up and the best of the local scene take over Soper Reserve for one big Friday night.",
+    "tinman triathlon": "Triathlon Tauranga’s Tinman race, with standard, sprint and short distances for all levels.",
+    "divas": "A night of hits from the greatest female artists of our time, with a sprinkle of festive tunes.",
+    "weet-bix": "Kids aged 6–15 swim, cycle and run their way around age-appropriate courses – a fun day out for everyone.",
+    "surfbreaker": "An iconic Mount event that turned 40 in 2024, with the swim leg in the surf at Main Beach.",
+    "famous last words": "Mount Maunganui’s big New Year’s Eve festival, with four stages for the first time and 17+ international artists.",
+    "kingston calling": "A new two-day music and culture festival bringing the biggest artists from Aotearoa and the Pacific to Bay Oval.",
+    "ten tenors": "Ten voices, 30 years, one unforgettable night from the world’s longest-running classical crossover act.",
+    "abba new years": "Bring in the New Year with the best ABBA vibes at The Rising Tide.",
+    "house & garden tours": "Aotearoa’s largest charity house tours, with some of the area’s most inspiring homes and gardens.",
+    "regenerate fashion": "A curated mix of local sellers and vintage fashion, in the heart of Mount Maunganui.",
+    "re:generate fashion": "A curated mix of local sellers and vintage fashion, in the heart of Mount Maunganui.",
+    "marra sprint": "The Mount’s signature sprint-distance triathlon: a 750 m swim along the shore, 20 km cycle and 5 km run."
+  },
+  "titles": {
+    "famous last words": "Famous Last Words – New Year’s Eve",
+    "city to surf": "Mitre 10 Mega Tauranga City to Surf",
+    "louis baker": "Louis Baker – Trouble Tour",
+    "mount comedy club": "Mount Comedy Club",
+    "flamingo pier": "Flamingo Pier – Woven Together",
+    "urban wine walk": "Urban Wine Walk"
+  },
+  "venues": {
+    "urban wine walk": "Mount Maunganui town centre",
+    "little big markets": "Mount Maunganui"
+  }
+}

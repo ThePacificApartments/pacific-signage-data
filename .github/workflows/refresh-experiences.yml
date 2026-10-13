@@ -1,0 +1,29 @@
+name: Refresh Mount Maunganui experiences
+
+on:
+  schedule:
+    # Every Sunday at 15:30 UTC = Monday 4:30am New Zealand time (after the events refresh)
+    - cron: "30 15 * * 0"
+  workflow_dispatch: {}   # lets you press "Run workflow" to refresh on demand
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the files
+        uses: actions/checkout@v4
+
+      - name: Re-read the pinned experiences
+        run: python3 refresh_experiences.py
+
+      - name: Save the new list
+        run: |
+          git config user.name "pacific-signage-bot"
+          git config user.email "signage-bot@users.noreply.github.com"
+          git add experiences.json
+          git commit -m "Weekly experiences refresh" || echo "Nothing new to save"
+          git pull --rebase
+          git push

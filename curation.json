@@ -75,5 +75,108 @@
   "venues": {
     "urban wine walk": "Mount Maunganui town centre",
     "little big markets": "Mount Maunganui"
-  }
+  },
+  "_about_experiences": "experiences: the activities shown on the Local Experiences slide, in this order. Only 'slug' is needed (the last part of the listing's web address on bayofplentynz.com/explore/). Optional: tag, title, desc, note, price, months (e.g. [10,11,12]) to use your own wording. Each week price, hours and photo are re-read from the site; a listing is left out automatically if it shows a 'closed' notice or has no photo.",
+  "experiences": [
+    {
+      "slug": "mount-hot-ocean-water-pools",
+      "tag": "Hot pools",
+      "title": "Mount Hot Pools",
+      "desc": "Relax outdoors in 32–39°C ocean water under the Mount, surrounded by golden beaches and cafés.",
+      "note": "Mon–Sat 7am–10pm · Sun 8am–10pm"
+    },
+    {
+      "slug": "mount-surf-school",
+      "tag": "Surf lessons",
+      "title": "Mount Surf School",
+      "desc": "Daily surf lessons for every level, from absolute beginner to advanced, at one of New Zealand’s best surfing beaches.",
+      "note": "Daily · 8am–6pm"
+    },
+    {
+      "slug": "mauao-adventures-stand-up-paddle-boarding-lesson",
+      "tag": "Stand-up paddle",
+      "title": "Stand Up Paddle Boarding Lesson",
+      "desc": "An introductory lesson with Mauao Adventures – learn the basics and get out on the water.",
+      "note": "Daily · 9am–5pm · seasonal",
+      "months": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "slug": "water-bike-rental-at-mount-water-bikes",
+      "tag": "Pilot Bay",
+      "title": "Mount Water Bikes",
+      "desc": "Pedal a water bike on the shores of Pilot Bay – a locally owned and operated rental business.",
+      "note": "10am–7pm · weather dependent"
+    },
+    {
+      "slug": "electric-bike-hire-tauranga-and-mount-maunganui",
+      "tag": "Electric bikes",
+      "title": "Electric Bike Hire",
+      "desc": "Mid-drive electric bikes to hire from the Electrify.nz store in Mount Maunganui.",
+      "note": "Daily · 9am–5pm"
+    },
+    {
+      "slug": "mount-maunganui-town-hikoi-walking-tour",
+      "tag": "Guided walk",
+      "title": "Mount Maunganui Town Hīkoi",
+      "desc": "A small-group guided walk through the historical and cultural sites of Mount Maunganui.",
+      "note": "Small group · daily"
+    },
+    {
+      "slug": "tauranga-maori-history-and-culture-tour",
+      "tag": "Culture",
+      "title": "Māori History & Culture Tour",
+      "desc": "A local storyteller, descended from the area’s tribes, guides you through Māori settlement and culture around Tauranga Moana.",
+      "note": "Daily"
+    },
+    {
+      "slug": "hobbiton-movie-set-tour-departs-tauranga",
+      "tag": "Day trip",
+      "title": "Hobbiton Movie Set Tour",
+      "desc": "Step into Middle-earth on a day trip from Tauranga to the world-famous Hobbiton Movie Set, with coastal views and countryside.",
+      "note": "Departs Tauranga"
+    },
+    {
+      "slug": "rotorua-cultural-and-geothermal-wonderland-tour-departs-tauranga",
+      "tag": "Day trip",
+      "title": "Rotorua Culture & Geothermal Tour",
+      "desc": "An immersive six-hour journey through the culture, geothermal wonders and natural beauty of Rotorua and the Bay of Plenty.",
+      "note": "Departs Tauranga"
+    },
+    {
+      "slug": "classic-flyers-aviation-museum-and-cafe",
+      "tag": "Museum & café",
+      "title": "Classic Flyers Aviation Museum",
+      "desc": "A historic aviation museum combined with a first-class café and bar – a great option on a showery day.",
+      "note": "Museum · café · bar"
+    },
+    {
+      "slug": "30-minute-mount-maunganui-scenic-flight",
+      "tag": "Scenic flight",
+      "title": "Mount Maunganui Scenic Flight",
+      "desc": "Soar above Mount Maunganui, its beaches and Matakana Island on a 30-minute scenic flight.",
+      "note": "Daily · 8am–5pm"
+    },
+    {
+      "slug": "skydive-tauranga",
+      "tag": "Adventure",
+      "title": "Skydive Tauranga",
+      "desc": "A one-minute freefall from 15,000 feet, with views of beaches, volcanoes and Whakaari White Island.",
+      "note": "Daily · 8am–7pm"
+    },
+    {
+      "slug": "snapper-and-kingfish-charter-of-tauranga-half-day",
+      "tag": "Fishing",
+      "title": "Snapper & Kingfish Fishing Charter",
+      "desc": "Half a day targeting snapper and kingfish with an experienced crew – take your fresh catch home.",
+      "note": "Daily · 7am–5pm"
+    }
+  ]
 }

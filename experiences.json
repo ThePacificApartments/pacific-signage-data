@@ -1,0 +1,131 @@
+{
+ "generated": "2026-10-13T00:15:37+00:00",
+ "source": "https://bayofplentynz.com/experiences/",
+ "experiences": [
+  {
+   "tag": "Surf lessons",
+   "title": "Mount Surf School",
+   "desc": "Daily surf lessons for every level, from absolute beginner to advanced, at one of New Zealand’s best surfing beaches.",
+   "price": "From $49",
+   "note": "Daily · 8am–6pm",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/2021-11/facebook-ad-two-people-paddling.jpg?params=rs,s:900x700,q:80,g:auto,o:auto"
+  },
+  {
+   "tag": "Stand-up paddle",
+   "title": "Stand Up Paddle Boarding Lesson",
+   "desc": "An introductory lesson with Mauao Adventures – learn the basics and get out on the water.",
+   "price": "From $35",
+   "note": "Daily · 9am–5pm · seasonal",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/2020-07/img_20200716_081240_865.jpg?params=rs,s:900x700,q:80,g:auto,o:auto",
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "tag": "Pilot Bay",
+   "title": "Mount Water Bikes",
+   "desc": "Pedal a water bike on the shores of Pilot Bay – a locally owned and operated rental business.",
+   "price": "From $10",
+   "note": "10am–7pm · weather dependent",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/2022-08/C16346FD-3365-4E00-9918-3EC04AB61CC6.jpeg?params=rs,s:900x700,q:80,g:auto,o:auto",
+   "months": [
+    1,
+    2,
+    3,
+    4,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "tag": "Electric bikes",
+   "title": "Electric Bike Hire",
+   "desc": "Mid-drive electric bikes to hire from the Electrify.nz store in Mount Maunganui.",
+   "price": "From $30",
+   "note": "Daily · 9am–5pm",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/2024-02/image0.jpeg?params=rs,s:900x700,q:80,g:auto,o:auto"
+  },
+  {
+   "tag": "Guided walk",
+   "title": "Mount Maunganui Town Hīkoi",
+   "desc": "A small-group guided walk through the historical and cultural sites of Mount Maunganui.",
+   "price": "From $120",
+   "note": "Small group · daily",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/2024-09/IMG_20230502_235422_488.jpg?params=rs,s:900x700,q:80,g:auto,o:auto"
+  },
+  {
+   "tag": "Culture",
+   "title": "Māori History & Culture Tour",
+   "desc": "A local storyteller, descended from the area’s tribes, guides you through Māori settlement and culture around Tauranga Moana.",
+   "price": "From $200",
+   "note": "Daily",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/2022-10/2%20View%20Mauao%20from%20Papamoa%20Hills.jpg?params=rs,s:900x700,q:80,g:auto,o:auto"
+  },
+  {
+   "tag": "Day trip",
+   "title": "Hobbiton Movie Set Tour",
+   "desc": "Step into Middle-earth on a day trip from Tauranga to the world-famous Hobbiton Movie Set, with coastal views and countryside.",
+   "price": "From $274",
+   "note": "Departs Tauranga",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/p-2D1075A8-CC71-F035-442897E5AC59EFE3-2544003.jpg?params=rs,s:900x700,q:80,g:auto,o:auto"
+  },
+  {
+   "tag": "Day trip",
+   "title": "Rotorua Culture & Geothermal Tour",
+   "desc": "An immersive six-hour journey through the culture, geothermal wonders and natural beauty of Rotorua and the Bay of Plenty.",
+   "price": "From $269",
+   "note": "Departs Tauranga",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/p-2904C3D1-FC99-E7F7-51F3B3E958AF3FA6-2544003.jpg?params=rs,s:900x700,q:80,g:auto,o:auto"
+  },
+  {
+   "tag": "Museum & café",
+   "title": "Classic Flyers Aviation Museum",
+   "desc": "A historic aviation museum combined with a first-class café and bar – a great option on a showery day.",
+   "price": "From $18.50",
+   "note": "Museum · café · bar",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/2022-06/CLASSIC%20FLYERS39141%20%282%29.JPG?params=rs,s:900x700,q:80,g:auto,o:auto"
+  },
+  {
+   "tag": "Scenic flight",
+   "title": "Mount Maunganui Scenic Flight",
+   "desc": "Soar above Mount Maunganui, its beaches and Matakana Island on a 30-minute scenic flight.",
+   "price": "From $299",
+   "note": "Daily · 8am–5pm",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/2025-05/Mauao.jpg?params=rs,s:900x700,q:80,g:auto,o:auto"
+  },
+  {
+   "tag": "Adventure",
+   "title": "Skydive Tauranga",
+   "desc": "A one-minute freefall from 15,000 feet, with views of beaches, volcanoes and Whakaari White Island.",
+   "price": "From $415",
+   "note": "Daily · 8am–7pm",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/2025-05/New%20Classic.jpg?params=rs,s:900x700,q:80,g:auto,o:auto"
+  },
+  {
+   "tag": "Fishing",
+   "title": "Snapper & Kingfish Fishing Charter",
+   "desc": "Half a day targeting snapper and kingfish with an experienced crew – take your fresh catch home.",
+   "price": "From $120",
+   "note": "Daily · 7am–5pm",
+   "image": "https://images-bop.b-cdn.net/sites/default/files/product_images/2026-09/IMG_8664.jpg?params=rs,s:900x700,q:80,g:auto,o:auto",
+   "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    9,
+    10,
+    11,
+    12
+   ]
+  }
+ ]
+}

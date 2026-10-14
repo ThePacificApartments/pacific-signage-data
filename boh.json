@@ -7,7 +7,10 @@
    "out": {
     "Superior 1 Bed": 2
    },
-   "mid": {}
+   "mid": {
+    "Deluxe 2 Bed": 2
+   },
+   "inHouse": 3
   },
   {
    "d": "2026-10-16",
@@ -20,7 +23,10 @@
    "out": {
     "Deluxe 2 Bed": 1
    },
-   "mid": {}
+   "mid": {
+    "Deluxe 2 Bed": 1
+   },
+   "inHouse": 7
   },
   {
    "d": "2026-10-17",
@@ -35,7 +41,8 @@
     "Deluxe 2 Bed": 2,
     "Studio": 1
    },
-   "mid": {}
+   "mid": {},
+   "inHouse": 12
   },
   {
    "d": "2026-10-18",
@@ -51,7 +58,8 @@
    },
    "mid": {
     "Deluxe 2 Bed": 1
-   }
+   },
+   "inHouse": 4
   },
   {
    "d": "2026-10-19",
@@ -64,7 +72,10 @@
    "out": {
     "Deluxe 1 Bed": 1
    },
-   "mid": {}
+   "mid": {
+    "Deluxe 2 Bed": 1
+   },
+   "inHouse": 9
   },
   {
    "d": "2026-10-20",
@@ -79,7 +90,8 @@
     "Executive 3 Bed": 1,
     "Studio": 3
    },
-   "mid": {}
+   "mid": {},
+   "inHouse": 8
   },
   {
    "d": "2026-10-21",
@@ -94,7 +106,8 @@
    },
    "mid": {
     "Deluxe 2 Bed": 1
-   }
+   },
+   "inHouse": 10
   },
   {
    "d": "2026-10-22",
@@ -108,9 +121,10 @@
     "Superior 1 Bed": 1
    },
    "mid": {
-    "Deluxe 1 Bed": 1,
-    "Deluxe 2 Bed": 1
-   }
+    "Deluxe 2 Bed": 1,
+    "Deluxe 1 Bed": 1
+   },
+   "inHouse": 15
   },
   {
    "d": "2026-10-23",
@@ -127,7 +141,10 @@
     "Superior 1 Bed": 1,
     "Studio": 1
    },
-   "mid": {}
+   "mid": {
+    "Deluxe 2 Bed": 1
+   },
+   "inHouse": 19
   },
   {
    "d": "2026-10-24",
@@ -143,11 +160,12 @@
     "Studio": 1
    },
    "mid": {
-    "Deluxe 2 Bed": 1,
-    "Superior 1 Bed": 2
-   }
+    "Deluxe 2 Bed": 1
+   },
+   "inHouse": 27
   }
  ],
  "hkAsOf": "2026-10-15",
- "midStay": "rms"
+ "midStay": "calculated",
+ "resAsOf": "2026-10-15"
 }

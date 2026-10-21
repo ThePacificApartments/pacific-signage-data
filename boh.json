@@ -1,26 +1,6 @@
 {
- "built": "2026-10-21T04:30",
+ "built": "2026-10-22T00:00",
  "housekeeping": [
-  {
-   "d": "2026-10-21",
-   "in": {
-    "Deluxe 1 Bed": 2,
-    "Deluxe 2 Bed": 4,
-    "Executive 3 Bed": 1,
-    "Executive 2 Bed": 1,
-    "Superior 1 Bed": 3,
-    "Studio": 3
-   },
-   "out": {
-    "Deluxe 1 Bed": 1,
-    "Superior 1 Bed": 3,
-    "Studio": 3,
-    "Superior 2 Bed": 1
-   },
-   "mid": {
-    "Deluxe 2 Bed": 1
-   }
-  },
   {
    "d": "2026-10-22",
    "in": {
@@ -218,6 +198,12 @@
   },
   {
    "d": "2026-11-03",
+   "in": {},
+   "out": {},
+   "mid": {}
+  },
+  {
+   "d": "2026-11-04",
    "in": {},
    "out": {},
    "mid": {}

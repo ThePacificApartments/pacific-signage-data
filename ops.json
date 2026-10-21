@@ -1,29 +1,25 @@
 {
- "built": "2026-10-21T04:30",
- "audit": "2026-10-20",
- "auditLabel": "Tuesday 20 October",
- "day": "2026-10-21",
- "dayLabel": "Wed 21 Oct",
- "arriving": 14.0,
- "departing": 8.0,
- "inHouse": 21.0,
- "occTonight": 75.0,
- "ooo": 3.0,
+ "built": "2026-10-22T04:30",
+ "audit": "2026-10-21",
+ "auditLabel": "Wednesday 21 October",
+ "day": "2026-10-22",
+ "dayLabel": "Thu 22 Oct",
+ "arriving": 7.0,
+ "departing": 11.0,
+ "inHouse": 19.0,
+ "occTonight": 69.0,
+ "ooo": 4.0,
  "inventory": 32,
  "occ": {
-  "last": 51.7,
-  "mtd": 52.0,
-  "next7": 66.3
+  "last": 85.7,
+  "mtd": 53.6,
+  "next7": 60.3
  },
- "lastSold": 15.0,
- "lastAvail": 29.0,
- "mtdNights": 285.0,
+ "lastSold": 24.0,
+ "lastAvail": 28.0,
+ "mtdNights": 309.0,
  "snap": "2026-10-21",
  "nights": [
-  {
-   "d": "2026-10-21",
-   "rooms": 21.0
-  },
   {
    "d": "2026-10-22",
    "rooms": 19.0
@@ -103,13 +99,17 @@
   {
    "d": "2026-11-10",
    "rooms": 12.0
+  },
+  {
+   "d": "2026-11-11",
+   "rooms": 10.0
   }
  ],
  "months": [
   {
    "name": "October",
-   "occ": 51.9,
-   "nights": 467,
+   "occ": 52.5,
+   "nights": 470,
    "note": "stayed + booked"
   },
   {
@@ -126,9 +126,9 @@
   }
  ],
  "mtd": {
-  "guests": 389.0,
-  "bookings": 248.0,
-  "cancellations": 64.0,
-  "oooNights": 92.0
+  "guests": 428.0,
+  "bookings": 263.0,
+  "cancellations": 66.0,
+  "oooNights": 96.0
  }
 }

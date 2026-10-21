@@ -1,19 +1,20 @@
 {
- "built": "2026-10-22T00:00",
+ "built": "2026-10-22T04:30",
  "housekeeping": [
   {
    "d": "2026-10-22",
    "in": {
-    "Deluxe 2 Bed": 1,
+    "Deluxe 2 Bed": 2,
     "Executive 3 Bed": 1,
     "Superior 1 Bed": 3,
     "Studio": 1
    },
    "out": {
-    "Deluxe 1 Bed": 1,
+    "Deluxe 1 Bed": 2,
     "Deluxe 2 Bed": 2,
+    "Executive 3 Bed": 1,
     "Superior 1 Bed": 2,
-    "Studio": 3
+    "Studio": 4
    },
    "mid": {
     "Deluxe 2 Bed": 1,
@@ -25,13 +26,13 @@
    "d": "2026-10-23",
    "in": {
     "Deluxe 1 Bed": 2,
-    "Deluxe 2 Bed": 6,
+    "Deluxe 2 Bed": 7,
     "Executive 2 Bed": 2,
     "Studio": 3
    },
    "out": {
     "Deluxe 1 Bed": 1,
-    "Deluxe 2 Bed": 4,
+    "Deluxe 2 Bed": 5,
     "Executive 3 Bed": 1,
     "Executive 2 Bed": 2,
     "Superior 1 Bed": 2,
@@ -51,7 +52,7 @@
     "Superior 2 Bed": 1
    },
    "out": {
-    "Deluxe 2 Bed": 3,
+    "Deluxe 2 Bed": 4,
     "Executive 2 Bed": 1,
     "Studio": 2
    },
@@ -63,9 +64,9 @@
   {
    "d": "2026-10-25",
    "in": {
-    "Deluxe 1 Bed": 1,
     "Deluxe 2 Bed": 2,
     "Executive 3 Bed": 1,
+    "Executive 2 Bed": 1,
     "Studio": 1,
     "Superior 2 Bed": 1
    },
@@ -86,14 +87,14 @@
    "d": "2026-10-26",
    "in": {
     "Executive 3 Bed": 1,
-    "Executive 2 Bed": 1,
+    "Executive 2 Bed": 2,
     "Studio": 1
    },
    "out": {
     "Deluxe 1 Bed": 2,
-    "Deluxe 2 Bed": 10,
+    "Deluxe 2 Bed": 9,
     "Executive 3 Bed": 1,
-    "Executive 2 Bed": 2,
+    "Executive 2 Bed": 3,
     "Superior 1 Bed": 2,
     "Studio": 3,
     "Superior 2 Bed": 1
@@ -118,15 +119,15 @@
   {
    "d": "2026-10-28",
    "in": {
-    "Superior 1 Bed": 1,
-    "Studio": 1
+    "Deluxe 2 Bed": 1,
+    "Studio": 2
    },
    "out": {
     "Superior 1 Bed": 2,
     "Studio": 1
    },
    "mid": {
-    "Deluxe 1 Bed": 1
+    "Deluxe 2 Bed": 1
    }
   },
   {
@@ -134,11 +135,12 @@
    "in": {
     "Deluxe 2 Bed": 2,
     "Executive 2 Bed": 3,
-    "Superior 1 Bed": 1,
+    "Superior 1 Bed": 2,
     "Studio": 2,
     "Superior 2 Bed": 1
    },
    "out": {
+    "Executive 2 Bed": 1,
     "Studio": 1
    },
    "mid": {}
@@ -146,8 +148,8 @@
   {
    "d": "2026-10-30",
    "in": {
-    "Deluxe 1 Bed": 2,
-    "Deluxe 2 Bed": 2,
+    "Deluxe 1 Bed": 1,
+    "Deluxe 2 Bed": 3,
     "Executive 3 Bed": 2,
     "Superior 1 Bed": 1,
     "Studio": 2
@@ -157,21 +159,23 @@
     "Studio": 2
    },
    "mid": {
-    "Superior 1 Bed": 1
+    "Deluxe 2 Bed": 1
    }
   },
   {
    "d": "2026-10-31",
    "in": {
-    "Deluxe 2 Bed": 3,
+    "Deluxe 2 Bed": 2,
     "Executive 3 Bed": 1,
+    "Executive 2 Bed": 1,
     "Studio": 2
    },
    "out": {
-    "Deluxe 1 Bed": 1,
-    "Deluxe 2 Bed": 1,
+    "Deluxe 2 Bed": 2,
     "Executive 3 Bed": 1,
-    "Executive 2 Bed": 1
+    "Executive 2 Bed": 1,
+    "Superior 1 Bed": 1,
+    "Studio": 1
    },
    "mid": {}
   },
@@ -183,8 +187,8 @@
    "out": {
     "Deluxe 2 Bed": 5,
     "Executive 3 Bed": 2,
-    "Executive 2 Bed": 2,
-    "Superior 1 Bed": 3,
+    "Executive 2 Bed": 3,
+    "Superior 1 Bed": 2,
     "Studio": 4,
     "Superior 2 Bed": 1
    },
@@ -209,6 +213,6 @@
    "mid": {}
   }
  ],
- "hkAsOf": "2026-10-21",
+ "hkAsOf": "2026-10-22",
  "midStay": "rms"
 }

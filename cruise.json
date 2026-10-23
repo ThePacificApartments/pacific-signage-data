@@ -1,18 +1,7 @@
 {
- "generated": "2026-10-22T16:01:07+00:00",
+ "generated": "2026-10-23T16:00:42+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
-  {
-   "ship": "Celebrity Solstice",
-   "loa": 317,
-   "gt": 121878,
-   "date": "2026-10-21",
-   "eta": "04:47",
-   "etd": "17:03",
-   "pax": 3125,
-   "line": "Celebrity Cruises",
-   "img": "ships/celebrity-solstice.jpg"
-  },
   {
    "ship": "Celebrity Edge",
    "loa": 306,
@@ -29,8 +18,8 @@
    "loa": 347,
    "gt": 168666,
    "date": "2026-10-26",
-   "eta": "08:30",
-   "etd": "20:00",
+   "eta": "07:55",
+   "etd": "19:45",
    "pax": 4905,
    "line": "Royal Caribbean",
    "img": "ships/anthem-of-the-seas.jpg"

@@ -1,25 +1,14 @@
 {
- "generated": "2026-10-25T16:00:35+00:00",
+ "generated": "2026-10-26T16:00:37+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
-  {
-   "ship": "Celebrity Edge",
-   "loa": 306,
-   "gt": 130818,
-   "date": "2026-10-24",
-   "eta": "06:00",
-   "etd": "19:16",
-   "pax": 3200,
-   "line": "Celebrity Cruises",
-   "img": "ships/celebrity-edge.jpg"
-  },
   {
    "ship": "Anthem of the Seas",
    "loa": 347,
    "gt": 168666,
    "date": "2026-10-26",
    "eta": "07:55",
-   "etd": "19:45",
+   "etd": "19:44",
    "pax": 4905,
    "line": "Royal Caribbean",
    "img": "ships/anthem-of-the-seas.jpg"

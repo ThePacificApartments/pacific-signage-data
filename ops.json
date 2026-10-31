@@ -18,7 +18,7 @@
  "lastSold": 27.0,
  "lastAvail": 29.0,
  "mtdNights": 525.0,
- "snap": "2026-10-31",
+ "snap": "2026-11-01",
  "nights": [
   {
    "d": "2026-11-01",
@@ -46,7 +46,7 @@
   },
   {
    "d": "2026-11-07",
-   "rooms": 19.0
+   "rooms": 20.0
   },
   {
    "d": "2026-11-08",
@@ -74,7 +74,7 @@
   },
   {
    "d": "2026-11-14",
-   "rooms": 21.0
+   "rooms": 22.0
   },
   {
    "d": "2026-11-15",
@@ -114,14 +114,14 @@
   },
   {
    "name": "November",
-   "occ": 37.8,
-   "nights": 363,
+   "occ": 38.0,
+   "nights": 365,
    "note": "on the books"
   },
   {
    "name": "December",
-   "occ": 37.4,
-   "nights": 371,
+   "occ": 37.7,
+   "nights": 374,
    "note": "on the books"
   }
  ],

@@ -13,8 +13,8 @@
     "Deluxe 2 Bed": 7,
     "Executive 3 Bed": 2,
     "Executive 2 Bed": 3,
-    "Superior 1 Bed": 2,
-    "Studio": 4,
+    "Superior 1 Bed": 3,
+    "Studio": 6,
     "Superior 2 Bed": 1
    },
    "mid": {}
@@ -92,6 +92,7 @@
   {
    "d": "2026-11-07",
    "in": {
+    "Deluxe 1 Bed": 1,
     "Deluxe 2 Bed": 2,
     "Executive 3 Bed": 1,
     "Executive 2 Bed": 1,
@@ -115,7 +116,7 @@
     "Studio": 4
    },
    "out": {
-    "Deluxe 1 Bed": 1,
+    "Deluxe 1 Bed": 2,
     "Deluxe 2 Bed": 2,
     "Executive 3 Bed": 3,
     "Studio": 4
@@ -162,7 +163,7 @@
    "mid": {}
   }
  ],
- "hkAsOf": "2026-10-31",
+ "hkAsOf": "2026-11-01",
  "midStay": "rms",
  "ops": {
   "built": "2026-11-01T04:31",

@@ -1,52 +1,7 @@
 {
- "generated": "2026-10-25T15:13:22+00:00",
+ "generated": "2026-11-01T15:22:25+00:00",
  "source": "https://bayofplentynz.com/events/",
  "events": [
-  {
-   "title": "Re:generate Fashion Market",
-   "start": "2026-10-26",
-   "when": "Mon 26 Oct · 10am–2pm",
-   "venue": "Cnr Maunganui and Hull Road, Mount Maunganui",
-   "desc": "A curated mix of local sellers and vintage fashion, in the heart of Mount Maunganui.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2232523-952414-35.png",
-   "featured": false
-  },
-  {
-   "title": "Hip Hop Unite World Championships",
-   "start": "2026-10-30",
-   "when": "Fri 30 Oct · 10am–5pm",
-   "venue": "Mercury Baypark, Mount Maunganui",
-   "desc": "Experience the energy and excitement of the Hip Hop Unite World Championships, as incredible crews and duos take the stage to compete for the title of World Champion.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2239683-955492-35.png?v=2",
-   "featured": false
-  },
-  {
-   "title": "Mudhoney",
-   "start": "2026-10-30",
-   "when": "Fri 30 Oct · 8pm–11pm",
-   "venue": "Totara Street, Mount Maunganui",
-   "desc": "Seattle grunge legends return to New Zealand for the first time in over a decade, for a run of intimate shows.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2207311-940673-35.jpg",
-   "featured": false
-  },
-  {
-   "title": "The Little Big Markets",
-   "start": "2026-10-31",
-   "when": "Sat 31 Oct · 9am–2pm",
-   "venue": "Mount Maunganui",
-   "desc": "Live music, coffee, street food, market stalls, workshops and games – a monthly market with great community vibes.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2227223-950137-35.png",
-   "featured": false
-  },
-  {
-   "title": "Run the Runway",
-   "start": "2026-10-31",
-   "when": "Sat 31 Oct · 4pm–8:30pm",
-   "venue": "Tauranga Airport, Mount Maunganui",
-   "desc": "A family-friendly community fun run on an airport runway as the sun sets – a rare chance to run it.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2224958-948965-35.png?v=2",
-   "featured": false
-  },
   {
    "title": "Melbourne cup Luncheon - Dress to Impress",
    "start": "2026-11-03",
@@ -72,6 +27,15 @@
    "venue": "Totara Street, Mount Maunganui",
    "desc": "**Drum and bass takes over Totara Street, Mount Maunganui on Friday 6 November as OPUS plays his farewell headline show before heading south – four hours of DnB in a…",
    "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2240295-955745-35.png",
+   "featured": false
+  },
+  {
+   "title": "The Little Big Markets",
+   "start": "2026-11-07",
+   "when": "Sat 7 Nov · 9am–2pm",
+   "venue": "Mount Maunganui",
+   "desc": "Live music, coffee, street food, market stalls, workshops and games – a monthly market with great community vibes.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2227223-950137-35.png",
    "featured": false
   },
   {
@@ -210,12 +174,30 @@
    "featured": false
   },
   {
+   "title": "Leavers '26 Official Pre-party",
+   "start": "2026-12-11",
+   "when": "Fri 11 Dec · 9pm–1am",
+   "venue": "Totara Street, Mount Maunganui",
+   "desc": "**Leavers '26 presents the official Pre-Party.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2242465-956631-7.png?v=2",
+   "featured": false
+  },
+  {
    "title": "The Chris Cornell Collection",
    "start": "2026-12-12",
    "when": "Sat 12 Dec · 8pm–11:55pm",
    "venue": "Totara Street, Mount Maunganui",
-   "desc": "**The Chris Cornell Collection – a tribute to Chris Cornell, Soundgarden, Audioslave and Temple of the Dog – plays Totara Street, Mount Maunganui on Saturday 12…",
+   "desc": "**Mount Maunganui get ready!** Following last year's massive show, The Chris Cornell Collection are returning to the Totara St stage, even bigger!!!",
    "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2240333-955765-35.png?v=2",
+   "featured": false
+  },
+  {
+   "title": "MauaoPAC End of Year Student Concert",
+   "start": "2026-12-13",
+   "when": "Sun 13 Dec · 4pm–7pm",
+   "venue": "Totara Street, Mount Maunganui",
+   "desc": "**MauaoPAC & the Wright Family Foundation present the MauaoPAC End of Year Student Concert!** Welcome back to another round of musical action put on by the students at…",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2240334-955766-35.png?v=2",
    "featured": false
   },
   {
@@ -246,6 +228,15 @@
    "featured": true
   },
   {
+   "title": "Summer Thieves NYE | TOTARA ST",
+   "start": "2026-12-31",
+   "when": "Thu 31 Dec · 8pm–1am",
+   "venue": "Totara Street, Mount Maunganui",
+   "desc": "**Summer Thieves are bringing their high-energy live show to Totara Street for a night of big tunes, good vibes and a packed dance floor.** Expect a mix of crowd…",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2242460-956629-7.png?v=2",
+   "featured": false
+  },
+  {
    "title": "ABBA New Years Eve Party",
    "start": "2026-12-31",
    "when": "Thu 31 Dec · 9pm–1am",
@@ -253,6 +244,15 @@
    "desc": "Bring in the New Year with the best ABBA vibes at The Rising Tide.",
    "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2235548-953566-35.jpg",
    "featured": true
+  },
+  {
+   "title": "Labretta Suede And The Motel 6",
+   "start": "2027-01-09",
+   "when": "Sat 9 Jan 2027 · 8pm",
+   "venue": "Maunganui Road, Mount Maunganui",
+   "desc": "Labretta Suede & The Motel 6 escape fascism for their ‘**Other Side Of Love’** kiwi summer tour.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2242312-956572-35.jpg?v=3",
+   "featured": false
   },
   {
    "title": "Calley Homes Womens Triathlon",
@@ -264,13 +264,13 @@
    "featured": false
   },
   {
-   "title": "Kingston Calling 2027",
-   "start": "2027-02-19",
-   "when": "Fri 19 Feb 2027 · 12:30pm–10:30pm",
-   "venue": "Blake Park, Mount Maunganui",
-   "desc": "A new two-day music and culture festival bringing the biggest artists from Aotearoa and the Pacific to Bay Oval.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2224657-948810-35.jpg",
-   "featured": true
+   "title": "Baggy Trousers | TOTARA ST",
+   "start": "2027-02-17",
+   "when": "Wed 17 Feb 2027 · 8pm–11pm",
+   "venue": "Totara Street, Mount Maunganui",
+   "desc": "**Great minds think alike. We’d been planning our New Zealand return since January when Madness announced their tour—just two days before we were due to announce ours.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2242491-956643-7.png?v=2",
+   "featured": false
   }
  ]
 }

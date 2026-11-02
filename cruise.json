@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T16:01:30+00:00",
+ "generated": "2026-11-02T16:02:35+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
   {
@@ -7,8 +7,8 @@
    "loa": 306,
    "gt": 130818,
    "date": "2026-11-02",
-   "eta": "07:25",
-   "etd": "19:45",
+   "eta": "07:28",
+   "etd": "19:38",
    "pax": 3200,
    "line": "Celebrity Cruises",
    "img": "ships/celebrity-edge.jpg"
@@ -30,8 +30,8 @@
    "loa": 123,
    "gt": 8445,
    "date": "2026-11-13",
-   "eta": "07:00",
-   "etd": "17:30",
+   "eta": "05:40",
+   "etd": "18:30",
    "pax": 184,
    "line": "Heritage Expeditions",
    "img": "ships/heritage-adventurer.jpg"
@@ -41,8 +41,8 @@
    "loa": 290,
    "gt": 107517,
    "date": "2026-11-14",
-   "eta": "05:10",
-   "etd": "18:50",
+   "eta": "06:55",
+   "etd": "19:00",
    "pax": 3006,
    "line": "Princess Cruises",
    "img": "ships/grand-princess.jpg"

@@ -1,18 +1,7 @@
 {
- "generated": "2026-11-03T16:00:48+00:00",
+ "generated": "2026-11-04T16:00:51+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
-  {
-   "ship": "Celebrity Edge",
-   "loa": 306,
-   "gt": 130818,
-   "date": "2026-11-02",
-   "eta": "07:28",
-   "etd": "19:38",
-   "pax": 3200,
-   "line": "Celebrity Cruises",
-   "img": "ships/celebrity-edge.jpg"
-  },
   {
    "ship": "Crown Princess",
    "loa": 289,

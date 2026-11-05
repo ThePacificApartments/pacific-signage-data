@@ -1,5 +1,5 @@
 {
- "built": "2026-11-06T04:31",
+ "built": "2026-11-06T04:32",
  "housekeeping": [
   {
    "d": "2026-11-06",
@@ -205,25 +205,25 @@
  "hkAsOf": "2026-11-06",
  "midStay": "rms",
  "ops": {
-  "built": "2026-11-06T04:31",
-  "audit": "2026-11-04",
-  "auditLabel": "Wednesday 4 November",
-  "day": "2026-11-05",
-  "dayLabel": "Thu 5 Nov",
-  "arriving": 3.0,
-  "departing": 14.0,
-  "inHouse": null,
-  "occTonight": 43.8,
+  "built": "2026-11-06T04:32",
+  "audit": "2026-11-05",
+  "auditLabel": "Thursday 5 November",
+  "day": "2026-11-06",
+  "dayLabel": "Fri 6 Nov",
+  "arriving": 16.0,
+  "departing": 7.0,
+  "inHouse": 23.0,
+  "occTonight": 74.2,
   "ooo": 1.0,
   "inventory": 33,
   "occ": {
-   "last": 78.1,
-   "mtd": 54.2,
-   "next7": 54.3
+   "last": 43.8,
+   "mtd": 52.0,
+   "next7": 55.2
   },
-  "lastSold": 25.0,
+  "lastSold": 14.0,
   "lastAvail": 32.0,
-  "mtdNights": 64.0,
+  "mtdNights": 78.0,
   "snap": "2026-11-06",
   "nights": [
    {
@@ -314,8 +314,8 @@
   "months": [
    {
     "name": "November",
-    "occ": 43.1,
-    "nights": 409,
+    "occ": 44.5,
+    "nights": 423,
     "note": "stayed + booked"
    },
    {
@@ -332,10 +332,10 @@
    }
   ],
   "mtd": {
-   "guests": 68.0,
-   "bookings": 52.0,
-   "cancellations": 24.0,
-   "oooNights": 13.0
+   "guests": 73.0,
+   "bookings": 57.0,
+   "cancellations": 25.0,
+   "oooNights": 14.0
   }
  }
 }

@@ -1,0 +1,59 @@
+{
+  "built": "2026-11-05T08:02",
+  "orderDate": "2026-11-05",
+  "delivery": "2026-11-06",
+  "coverFrom": "2026-11-06",
+  "coverTo": "2026-11-09",
+  "beds": 61,
+  "items": [
+    {
+      "name": "King Sheet",
+      "note": "Plain",
+      "fcst": 122,
+      "order": 135
+    },
+    {
+      "name": "King Sheet",
+      "note": "Stripe · top sheet",
+      "fcst": 61,
+      "order": 68,
+      "stripe": true
+    },
+    {
+      "name": "Single Sheet",
+      "note": "White",
+      "fcst": 78,
+      "order": 86
+    },
+    {
+      "name": "Pillow Slip",
+      "note": "",
+      "fcst": 282,
+      "order": 311
+    },
+    {
+      "name": "Bath Towel",
+      "note": "",
+      "fcst": 60,
+      "order": 66
+    },
+    {
+      "name": "Body Towel",
+      "note": "",
+      "fcst": 212,
+      "order": 234
+    },
+    {
+      "name": "Hand Towel",
+      "note": "",
+      "fcst": 70,
+      "order": 77
+    },
+    {
+      "name": "Face Cloth",
+      "note": "",
+      "fcst": 142,
+      "order": 157
+    }
+  ]
+}

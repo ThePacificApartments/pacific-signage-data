@@ -1,24 +1,6 @@
 {
- "built": "2026-11-06T04:32",
+ "built": "2026-11-07T00:00",
  "housekeeping": [
-  {
-   "d": "2026-11-06",
-   "in": {
-    "Deluxe 1 Bed": 2,
-    "Deluxe 2 Bed": 3,
-    "Executive 3 Bed": 3,
-    "Executive 2 Bed": 2,
-    "Superior 1 Bed": 2,
-    "Studio": 4
-   },
-   "out": {
-    "Deluxe 1 Bed": 1,
-    "Deluxe 2 Bed": 3,
-    "Superior 1 Bed": 2,
-    "Superior 2 Bed": 1
-   },
-   "mid": {}
-  },
   {
    "d": "2026-11-07",
    "in": {
@@ -200,12 +182,18 @@
    "in": {},
    "out": {},
    "mid": {}
+  },
+  {
+   "d": "2026-11-20",
+   "in": {},
+   "out": {},
+   "mid": {}
   }
  ],
  "hkAsOf": "2026-11-06",
  "midStay": "rms",
  "ops": {
-  "built": "2026-11-06T04:32",
+  "built": "2026-11-07T00:00",
   "audit": "2026-11-05",
   "auditLabel": "Thursday 5 November",
   "day": "2026-11-06",

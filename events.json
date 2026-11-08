@@ -1,70 +1,7 @@
 {
- "generated": "2026-11-01T15:22:25+00:00",
+ "generated": "2026-11-08T15:23:13+00:00",
  "source": "https://bayofplentynz.com/events/",
  "events": [
-  {
-   "title": "Melbourne cup Luncheon - Dress to Impress",
-   "start": "2026-11-03",
-   "when": "Tue 3 Nov · 3pm–9pm",
-   "venue": "147B Maunganui Rd, Mount Maunganui",
-   "desc": "Melbourne Cup Celebration – Hide Thirst & Hunger Whether you are a racing enthusiast or just love an excuse to dress up, look no further for the perfect race-day…",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2239132-954981-35.png",
-   "featured": false
-  },
-  {
-   "title": "Mount Comedy Club",
-   "start": "2026-11-05",
-   "when": "Thu 5 Nov · 7:30pm–10pm",
-   "venue": "Totara Street, Mount Maunganui",
-   "desc": "A big night of stand-up comedy at the Mount’s monthly comedy club.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2235672-953704-35.jpg",
-   "featured": false
-  },
-  {
-   "title": "OPUS & Friends",
-   "start": "2026-11-06",
-   "when": "Fri 6 Nov · 9pm–1am",
-   "venue": "Totara Street, Mount Maunganui",
-   "desc": "**Drum and bass takes over Totara Street, Mount Maunganui on Friday 6 November as OPUS plays his farewell headline show before heading south – four hours of DnB in a…",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2240295-955745-35.png",
-   "featured": false
-  },
-  {
-   "title": "The Little Big Markets",
-   "start": "2026-11-07",
-   "when": "Sat 7 Nov · 9am–2pm",
-   "venue": "Mount Maunganui",
-   "desc": "Live music, coffee, street food, market stalls, workshops and games – a monthly market with great community vibes.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2227223-950137-35.png",
-   "featured": false
-  },
-  {
-   "title": "Gindulgence 2026",
-   "start": "2026-11-07",
-   "when": "Sat 7 Nov · 12pm–6pm",
-   "venue": "Soper Reserve, Mount Maunganui",
-   "desc": "New Zealand’s most celebrated gin festival – an afternoon of tastings and cocktails from the world of NZ spirits.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2191953-936384-35.png?v=2",
-   "featured": true
-  },
-  {
-   "title": "Ozi Ozaa | Totara Street",
-   "start": "2026-11-07",
-   "when": "Sat 7 Nov · 7pm–11:55pm",
-   "venue": "Totara Street, Mount Maunganui",
-   "desc": "**Ozi Ozaa’s 10-piece Afrofunk band brings a night of live African music, Highlife grooves and DJs to Totara Street, Mount Maunganui on Saturday 7 November – the dance…",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2240304-955753-7.png",
-   "featured": false
-  },
-  {
-   "title": "Mitre 10 Mega Tauranga City to Surf",
-   "start": "2026-11-08",
-   "when": "Sun 8 Nov · 6:30am–1pm",
-   "venue": "Marine Parade, Mount Maunganui",
-   "desc": "The iconic beachfront run with its sand finish line – with the City to Surf, half marathon and 5 km on offer.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2163833-923479-35.jpg?v=2",
-   "featured": true
-  },
   {
    "title": "Ash Grunwald",
    "start": "2026-11-12",
@@ -102,6 +39,15 @@
    "featured": false
   },
   {
+   "title": "The Little Big Markets",
+   "start": "2026-11-14",
+   "when": "Sat 14 Nov · 9am–2pm",
+   "venue": "Mount Maunganui",
+   "desc": "Live music, coffee, street food, market stalls, workshops and games – a monthly market with great community vibes.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2227223-950137-35.png",
+   "featured": false
+  },
+  {
    "title": "Midwave Breaks Album Release Tour",
    "start": "2026-11-20",
    "when": "Fri 20 Nov · 8pm",
@@ -126,6 +72,15 @@
    "venue": "The Mall, Mount Maunganui",
    "desc": "Triathlon Tauranga’s Tinman race, with standard, sprint and short distances for all levels.",
    "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2198409-939324-35.png",
+   "featured": false
+  },
+  {
+   "title": "Travel Information Sessions",
+   "start": "2026-11-25",
+   "when": "Wed 25 Nov · 6:30pm–8:30pm",
+   "venue": "Mercury Baypark, Mount Maunganui",
+   "desc": "Whether you're dreaming of faraway cultural discoveries, riding the rails on an iconic journey aboard The Ghan, or setting sail on a river, ocean or expedition voyage…",
+   "image": "https://cdn.eventfinda.co.nz/images/global/sample-images/sample-images-festivals-35.webp?b",
    "featured": false
   },
   {
@@ -171,6 +126,15 @@
    "venue": "Totara Street, Mount Maunganui",
    "desc": "**A Glen Hansard tribute night at Totara Street, Mount Maunganui on Friday 4 December: local musicians celebrate the music of The Frames, The Swell Season and Glen’s…",
    "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2240332-955764-35.png",
+   "featured": false
+  },
+  {
+   "title": "Shining Armour",
+   "start": "2026-12-08",
+   "when": "Tue 8 Dec · 6:30pm–7:30pm",
+   "venue": "Marlin Street, Mount Maunganui",
+   "desc": "Live Music, Live Dance, Interactive Dance, raffles Indie Pop Rock Hop Music from AJSCeleste. Music release.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2245367-957855-35.jpg?v=5",
    "featured": false
   },
   {
@@ -270,6 +234,42 @@
    "venue": "Totara Street, Mount Maunganui",
    "desc": "**Great minds think alike. We’d been planning our New Zealand return since January when Madness announced their tour—just two days before we were due to announce ours.",
    "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2242491-956643-7.png?v=2",
+   "featured": false
+  },
+  {
+   "title": "Kingston Calling 2027",
+   "start": "2027-02-19",
+   "when": "Fri 19 Feb 2027 · 12:30pm–10:30pm",
+   "venue": "Blake Park, Mount Maunganui",
+   "desc": "A new two-day music and culture festival bringing the biggest artists from Aotearoa and the Pacific to Bay Oval.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2224657-948810-35.jpg",
+   "featured": true
+  },
+  {
+   "title": "The Ten Tenors",
+   "start": "2027-03-11",
+   "when": "Thu 11 Mar 2027 · 7:30pm–9:45pm",
+   "venue": "Mercury Baypark, Mount Maunganui",
+   "desc": "Ten voices, 30 years, one unforgettable night from the world’s longest-running classical crossover act.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2236285-953979-35.jpg?v=9",
+   "featured": true
+  },
+  {
+   "title": "Marra Sprint Triathlon",
+   "start": "2027-03-14",
+   "when": "Sun 14 Mar 2027 · 7am–11am",
+   "venue": "The Mall, Mount Maunganui",
+   "desc": "The Mount’s signature sprint-distance triathlon: a 750 m swim along the shore, 20 km cycle and 5 km run.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2198021-939335-7.jpg",
+   "featured": false
+  },
+  {
+   "title": "NZ House & Garden Tours",
+   "start": "2027-03-19",
+   "when": "Fri 19 Mar 2027 · 9:30am",
+   "venue": "Blake Park, Mount Maunganui",
+   "desc": "Aotearoa’s largest charity house tours, with some of the area’s most inspiring homes and gardens.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2211378-944959-35.png?v=4",
    "featured": false
   }
  ]

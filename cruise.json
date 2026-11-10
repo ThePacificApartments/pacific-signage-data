@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T16:00:40+00:00",
+ "generated": "2026-11-10T16:00:44+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
   {
@@ -7,8 +7,8 @@
    "loa": 289,
    "gt": 113561,
    "date": "2026-11-10",
-   "eta": "08:55",
-   "etd": "20:30",
+   "eta": "09:03",
+   "etd": "20:34",
    "pax": 3582,
    "line": "Princess Cruises",
    "img": "ships/crown-princess.jpg",

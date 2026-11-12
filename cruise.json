@@ -1,19 +1,7 @@
 {
- "generated": "2026-11-11T16:00:43+00:00",
+ "generated": "2026-11-12T16:00:45+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
-  {
-   "ship": "Crown Princess",
-   "loa": 289,
-   "gt": 113561,
-   "date": "2026-11-10",
-   "eta": "09:03",
-   "etd": "20:34",
-   "pax": 3582,
-   "line": "Princess Cruises",
-   "img": "ships/crown-princess.jpg",
-   "note": "Photo: sister ship Caribbean Princess"
-  },
   {
    "ship": "Heritage Adventurer",
    "loa": 123,
@@ -41,8 +29,8 @@
    "loa": 306,
    "gt": 130818,
    "date": "2026-11-26",
-   "eta": "05:15",
-   "etd": "16:45",
+   "eta": "04:40",
+   "etd": "16:30",
    "pax": 3200,
    "line": "Celebrity Cruises",
    "img": "ships/celebrity-edge.jpg"
@@ -53,7 +41,7 @@
    "gt": 47842,
    "date": "2026-12-04",
    "eta": "09:45",
-   "etd": "18:00",
+   "etd": "17:45",
    "pax": 954,
    "line": "Viking",
    "img": "ships/viking-venus.jpg",
@@ -75,8 +63,8 @@
    "loa": 347,
    "gt": 168666,
    "date": "2026-12-06",
-   "eta": "08:00",
-   "etd": "17:30",
+   "eta": "07:25",
+   "etd": "17:45",
    "pax": 4905,
    "line": "Royal Caribbean",
    "img": "ships/anthem-of-the-seas.jpg"

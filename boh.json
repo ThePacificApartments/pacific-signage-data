@@ -1,5 +1,5 @@
 {
- "built": "2026-11-15T00:00",
+ "built": "2026-11-15T04:30",
  "housekeeping": [
   {
    "d": "2026-11-15",
@@ -8,7 +8,7 @@
     "Executive 3 Bed": 2,
     "Superior 1 Bed": 1,
     "Studio": 1,
-    "Superior 2 Bed": 1
+    "Superior 2 Bed": 2
    },
    "out": {
     "Deluxe 1 Bed": 3,
@@ -27,7 +27,7 @@
    "in": {
     "Deluxe 2 Bed": 2,
     "Executive 2 Bed": 1,
-    "Superior 1 Bed": 1,
+    "Superior 1 Bed": 2,
     "Superior 2 Bed": 1
    },
    "out": {
@@ -37,7 +37,7 @@
     "Executive 2 Bed": 2,
     "Superior 1 Bed": 4,
     "Studio": 3,
-    "Superior 2 Bed": 1
+    "Superior 2 Bed": 2
    },
    "mid": {
     "Executive 2 Bed": 1
@@ -67,7 +67,7 @@
    },
    "out": {
     "Deluxe 1 Bed": 1,
-    "Superior 1 Bed": 1,
+    "Superior 1 Bed": 2,
     "Studio": 2
    },
    "mid": {
@@ -139,7 +139,9 @@
     "Superior 1 Bed": 1,
     "Studio": 3
    },
-   "mid": {}
+   "mid": {
+    "Executive 2 Bed": 1
+   }
   },
   {
    "d": "2026-11-23",
@@ -178,10 +180,10 @@
    "mid": {}
   }
  ],
- "hkAsOf": "2026-11-14",
+ "hkAsOf": "2026-11-15",
  "midStay": "rms",
  "ops": {
-  "built": "2026-11-15T00:00",
+  "built": "2026-11-15T04:30",
   "audit": "2026-11-13",
   "auditLabel": "Friday 13 November",
   "day": "2026-11-14",

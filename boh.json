@@ -190,7 +190,7 @@
   "dayLabel": "Sun 15 Nov",
   "arriving": 7.0,
   "departing": 17.0,
-  "inHouse": 21.0,
+  "inHouse": 22.0,
   "occTonight": 73.3,
   "ooo": 0.0,
   "inventory": 33,
@@ -202,19 +202,19 @@
   "lastSold": 32.0,
   "lastAvail": 33.0,
   "mtdNights": 284.0,
-  "snap": "2026-11-14",
+  "snap": "2026-11-15",
   "nights": [
    {
     "d": "2026-11-15",
-    "rooms": 21.0
+    "rooms": 22.0
    },
    {
     "d": "2026-11-16",
-    "rooms": 11.0
+    "rooms": 12.0
    },
    {
     "d": "2026-11-17",
-    "rooms": 17.0
+    "rooms": 18.0
    },
    {
     "d": "2026-11-18",
@@ -292,8 +292,8 @@
   "months": [
    {
     "name": "November",
-    "occ": 53.3,
-    "nights": 512,
+    "occ": 53.6,
+    "nights": 515,
     "note": "stayed + booked"
    },
    {
@@ -304,8 +304,8 @@
    },
    {
     "name": "January",
-    "occ": 41.1,
-    "nights": 408,
+    "occ": 42.7,
+    "nights": 424,
     "note": "on the books"
    }
   ],

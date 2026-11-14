@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T16:00:43+00:00",
+ "generated": "2026-11-14T16:00:44+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
   {
@@ -18,8 +18,8 @@
    "loa": 290,
    "gt": 107517,
    "date": "2026-11-14",
-   "eta": "06:55",
-   "etd": "19:00",
+   "eta": "06:57",
+   "etd": "19:26",
    "pax": 3006,
    "line": "Princess Cruises",
    "img": "ships/grand-princess.jpg"

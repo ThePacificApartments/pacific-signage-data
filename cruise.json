@@ -1,18 +1,7 @@
 {
- "generated": "2026-11-14T16:00:44+00:00",
+ "generated": "2026-11-15T16:01:06+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
-  {
-   "ship": "Heritage Adventurer",
-   "loa": 123,
-   "gt": 8445,
-   "date": "2026-11-13",
-   "eta": "05:52",
-   "etd": "18:21",
-   "pax": 184,
-   "line": "Heritage Expeditions",
-   "img": "ships/heritage-adventurer.jpg"
-  },
   {
    "ship": "Grand Princess",
    "loa": 290,

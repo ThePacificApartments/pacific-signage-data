@@ -1,52 +1,7 @@
 {
- "generated": "2026-11-08T15:23:13+00:00",
+ "generated": "2026-11-15T15:27:19+00:00",
  "source": "https://bayofplentynz.com/events/",
  "events": [
-  {
-   "title": "Ash Grunwald",
-   "start": "2026-11-12",
-   "when": "Thu 12 Nov · 7pm–11:30pm",
-   "venue": "Totara Street, Mount Maunganui",
-   "desc": "**Australia’s premier bluesman returns to NZ after sold out shows across around the world!** Renowned for his electrifying live shows, Ash Grunwald has inspired a…",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2240305-955755-35.png",
-   "featured": false
-  },
-  {
-   "title": "No Days Off 2026",
-   "start": "2026-11-13",
-   "when": "Fri 13 Nov · 5pm–11pm",
-   "venue": "Soper Reserve, Mount Maunganui",
-   "desc": "An international line-up and the best of the local scene take over Soper Reserve for one big Friday night.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2221037-947069-35.png?v=2",
-   "featured": false
-  },
-  {
-   "title": "Adults-Only Comedy Hypnosis Show",
-   "start": "2026-11-13",
-   "when": "Fri 13 Nov · 7pm–8:30pm",
-   "venue": "Kawaka Street, Mount Maunganui",
-   "desc": "As seen on Seven Sharp (TVNZ) and going viral on TikTok, you’re in for a treat! Comedy Hypnotist Haiming Jiang is bringing his hit Comedy Hypnosis Show to your area.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2233471-952823-35.jpg?v=12",
-   "featured": false
-  },
-  {
-   "title": "Ardon England - Too Sexy Tour",
-   "start": "2026-11-13",
-   "when": "Fri 13 Nov · 8pm–11:55pm",
-   "venue": "Totara Street, Mount Maunganui",
-   "desc": "**Chart-topping queer Māori electronic artist Ardon England brings the Too Sexy Tour to Totara Street, Mount Maunganui on Friday 13 November – one night only of live…",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2240308-955758-35.png",
-   "featured": false
-  },
-  {
-   "title": "The Little Big Markets",
-   "start": "2026-11-14",
-   "when": "Sat 14 Nov · 9am–2pm",
-   "venue": "Mount Maunganui",
-   "desc": "Live music, coffee, street food, market stalls, workshops and games – a monthly market with great community vibes.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2227223-950137-35.png",
-   "featured": false
-  },
   {
    "title": "Midwave Breaks Album Release Tour",
    "start": "2026-11-20",
@@ -75,6 +30,15 @@
    "featured": false
   },
   {
+   "title": "Full Moon Sound Journey",
+   "start": "2026-11-24",
+   "when": "Tue 24 Nov · 6:30pm–9pm",
+   "venue": "Matapihi Station Road, Mount Maunganui",
+   "desc": "Come and unplug from the world in nature and receive, be nurtured and feel connected. This is a two hour sacred fire ceremony and sound bath with cacao.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2245165-957743-35.jpg",
+   "featured": false
+  },
+  {
    "title": "Travel Information Sessions",
    "start": "2026-11-25",
    "when": "Wed 25 Nov · 6:30pm–8:30pm",
@@ -90,6 +54,15 @@
    "venue": "Totara Street, Mount Maunganui",
    "desc": "**CHAII brings her VIP (Very Important Persian) NZ tour to Totara Street, Mount Maunganui on Friday 27 November – the final date of just four New Zealand shows, and her…",
    "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2240330-955761-35.png?v=2",
+   "featured": false
+  },
+  {
+   "title": "The Little Big Markets",
+   "start": "2026-11-28",
+   "when": "Sat 28 Nov · 9am–2pm",
+   "venue": "Mount Maunganui",
+   "desc": "Live music, coffee, street food, market stalls, workshops and games – a monthly market with great community vibes.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2227237-950139-35.png",
    "featured": false
   },
   {
@@ -165,6 +138,15 @@
    "featured": false
   },
   {
+   "title": "Soul Food - Half Day Retreat with Art and Sound",
+   "start": "2026-12-18",
+   "when": "Fri 18 Dec · 2pm–6pm",
+   "venue": "Matapihi Station Road, Mount Maunganui",
+   "desc": "This transformational half day retreat invites you to journey through the realms of emotion and sound to intuitively create a beautiful piece of art, it brings together…",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2245168-957747-35.jpg",
+   "featured": false
+  },
+  {
    "title": "Joel Shadbolt & RnBeast",
    "start": "2026-12-19",
    "when": "Sat 19 Dec · 6pm–11:55pm",
@@ -210,6 +192,15 @@
    "featured": true
   },
   {
+   "title": "Daily J",
+   "start": "2027-01-02",
+   "when": "Sat 2 Jan 2027 · 8pm–1am",
+   "venue": "Totara Street, Mount Maunganui",
+   "desc": "**It's been a huge year for Daily J, but there's no place like home.** After embarking on their biggest tour yet across Australia, Canada, the UK and Europe, the boys…",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2245561-957953-7.jpg?v=2",
+   "featured": false
+  },
+  {
    "title": "Labretta Suede And The Motel 6",
    "start": "2027-01-09",
    "when": "Sat 9 Jan 2027 · 8pm",
@@ -244,6 +235,15 @@
    "desc": "A new two-day music and culture festival bringing the biggest artists from Aotearoa and the Pacific to Bay Oval.",
    "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2224657-948810-35.jpg",
    "featured": true
+  },
+  {
+   "title": "Kim Churchill",
+   "start": "2027-03-05",
+   "when": "Fri 5 Mar 2027 · 8pm–11:55pm",
+   "venue": "Totara Street, Mount Maunganui",
+   "desc": "**One man. A guitar, harmonica, percussion and an extraordinary voice.",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2245590-957958-35.png",
+   "featured": false
   },
   {
    "title": "The Ten Tenors",

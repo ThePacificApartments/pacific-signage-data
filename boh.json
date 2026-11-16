@@ -1,5 +1,5 @@
 {
- "built": "2026-11-17T00:00",
+ "built": "2026-11-17T04:30",
  "housekeeping": [
   {
    "d": "2026-11-17",
@@ -221,14 +221,14 @@
  "hkAsOf": "2026-11-16",
  "midStay": "rms",
  "ops": {
-  "built": "2026-11-17T00:00",
+  "built": "2026-11-17T04:30",
   "audit": "2026-11-15",
   "auditLabel": "Sunday 15 November",
   "day": "2026-11-16",
   "dayLabel": "Mon 16 Nov",
   "arriving": 7.0,
   "departing": 18.0,
-  "inHouse": 13.0,
+  "inHouse": null,
   "occTonight": 41.9,
   "ooo": 2.0,
   "inventory": 33,
@@ -240,59 +240,55 @@
   "lastSold": 24.0,
   "lastAvail": 31.0,
   "mtdNights": 308.0,
-  "snap": "2026-11-16",
+  "snap": "2026-11-17",
   "nights": [
    {
-    "d": "2026-11-16",
-    "rooms": 13.0
-   },
-   {
     "d": "2026-11-17",
-    "rooms": 19.0
+    "rooms": 22.0
    },
    {
     "d": "2026-11-18",
-    "rooms": 19.0
+    "rooms": 22.0
    },
    {
     "d": "2026-11-19",
-    "rooms": 18.0
-   },
-   {
-    "d": "2026-11-20",
     "rooms": 20.0
    },
    {
+    "d": "2026-11-20",
+    "rooms": 22.0
+   },
+   {
     "d": "2026-11-21",
-    "rooms": 26.0
+    "rooms": 27.0
    },
    {
     "d": "2026-11-22",
-    "rooms": 17.0
+    "rooms": 19.0
    },
    {
     "d": "2026-11-23",
-    "rooms": 7.0
-   },
-   {
-    "d": "2026-11-24",
     "rooms": 10.0
    },
    {
+    "d": "2026-11-24",
+    "rooms": 13.0
+   },
+   {
     "d": "2026-11-25",
-    "rooms": 12.0
+    "rooms": 13.0
    },
    {
     "d": "2026-11-26",
-    "rooms": 11.0
+    "rooms": 12.0
    },
    {
     "d": "2026-11-27",
-    "rooms": 15.0
+    "rooms": 17.0
    },
    {
     "d": "2026-11-28",
-    "rooms": 14.0
+    "rooms": 17.0
    },
    {
     "d": "2026-11-29",
@@ -320,30 +316,34 @@
    },
    {
     "d": "2026-12-05",
-    "rooms": 16.0
+    "rooms": 17.0
    },
    {
     "d": "2026-12-06",
     "rooms": 7.0
+   },
+   {
+    "d": "2026-12-07",
+    "rooms": 6.0
    }
   ],
   "months": [
    {
     "name": "November",
-    "occ": 54.6,
-    "nights": 524,
+    "occ": 55.9,
+    "nights": 537,
     "note": "stayed + booked"
    },
    {
     "name": "December",
-    "occ": 44.8,
-    "nights": 444,
+    "occ": 45.5,
+    "nights": 451,
     "note": "on the books"
    },
    {
     "name": "January",
-    "occ": 43.9,
-    "nights": 435,
+    "occ": 44.3,
+    "nights": 439,
     "note": "on the books"
    }
   ],

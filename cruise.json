@@ -1,18 +1,7 @@
 {
- "generated": "2026-11-15T16:01:06+00:00",
+ "generated": "2026-11-16T16:00:52+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
-  {
-   "ship": "Grand Princess",
-   "loa": 290,
-   "gt": 107517,
-   "date": "2026-11-14",
-   "eta": "06:57",
-   "etd": "19:26",
-   "pax": 3006,
-   "line": "Princess Cruises",
-   "img": "ships/grand-princess.jpg"
-  },
   {
    "ship": "Celebrity Edge",
    "loa": 306,

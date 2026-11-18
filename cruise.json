@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T16:00:53+00:00",
+ "generated": "2026-11-18T16:00:51+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
   {
@@ -64,8 +64,8 @@
    "loa": 213,
    "gt": 40844,
    "date": "2026-12-17",
-   "eta": "08:00",
-   "etd": "18:00",
+   "eta": "06:40",
+   "etd": "18:15",
    "pax": 623,
    "line": "Silversea",
    "img": "ships/silver-moon.jpg",
@@ -413,7 +413,7 @@
    "loa": 241,
    "gt": 50444,
    "date": "2027-02-09",
-   "eta": "06:15",
+   "eta": "05:40",
    "etd": "17:00",
    "pax": 960,
    "line": "NYK Cruises",

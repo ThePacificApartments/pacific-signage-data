@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T16:00:17+00:00",
+ "generated": "2026-11-20T16:00:52+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
   {
@@ -8,7 +8,7 @@
    "gt": 130818,
    "date": "2026-11-26",
    "eta": "04:40",
-   "etd": "16:30",
+   "etd": "16:15",
    "pax": 3200,
    "line": "Celebrity Cruises",
    "img": "ships/celebrity-edge.jpg"

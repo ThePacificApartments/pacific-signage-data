@@ -1,34 +1,7 @@
 {
- "generated": "2026-11-15T15:27:19+00:00",
+ "generated": "2026-11-22T20:52:53+00:00",
  "source": "https://bayofplentynz.com/events/",
  "events": [
-  {
-   "title": "Midwave Breaks Album Release Tour",
-   "start": "2026-11-20",
-   "when": "Fri 20 Nov · 8pm",
-   "venue": "Totara Street, Mount Maunganui",
-   "desc": "Tauranga Alt-Rock Duo Midwave Breaks invite you to celebrate the release of their first full-length album, alongside Special Guests, with four shows across the Motu.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2233259-951901-35.jpg",
-   "featured": false
-  },
-  {
-   "title": "2000s + 2010s Party",
-   "start": "2026-11-21",
-   "when": "Sat 21 Nov · 8pm–11:55pm",
-   "venue": "Totara Street, Mount Maunganui",
-   "desc": "WE CAN'T STOP ⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎ 2000s + 2010s Party SATURDAY 21ST NOVEMBER 2026 TOTARA ST TAURNAGA DOORS AT 8PM 18+ ⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎⭐︎ Calling…",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2240309-955759-35.png",
-   "featured": false
-  },
-  {
-   "title": "Marra Construction Tinman Triathlon",
-   "start": "2026-11-22",
-   "when": "Sun 22 Nov · 7am–1pm",
-   "venue": "The Mall, Mount Maunganui",
-   "desc": "Triathlon Tauranga’s Tinman race, with standard, sprint and short distances for all levels.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2198409-939324-35.png",
-   "featured": false
-  },
   {
    "title": "Full Moon Sound Journey",
    "start": "2026-11-24",
@@ -138,6 +111,15 @@
    "featured": false
   },
   {
+   "title": "Albatross",
+   "start": "2026-12-17",
+   "when": "Thu 17 Dec · 8pm–11:55pm",
+   "venue": "Totara Street, Mount Maunganui",
+   "desc": "**Get ready for an electrifying night of Nepali rock as Albatross, one of Nepal’s most iconic rock bands, takes the stage in Tauranga!** Known for their powerful…",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2247348-958660-7.png?v=2",
+   "featured": false
+  },
+  {
    "title": "Soul Food - Half Day Retreat with Art and Sound",
    "start": "2026-12-18",
    "when": "Fri 18 Dec · 2pm–6pm",
@@ -170,7 +152,7 @@
    "when": "Thu 31 Dec · 6pm–1am",
    "venue": "Mercury Baypark, Mount Maunganui",
    "desc": "Mount Maunganui’s big New Year’s Eve festival, with four stages for the first time and 17+ international artists.",
-   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2209742-943571-35.png?v=2",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2249625-943571-35.png?v=2",
    "featured": true
   },
   {
@@ -198,6 +180,15 @@
    "venue": "Totara Street, Mount Maunganui",
    "desc": "**It's been a huge year for Daily J, but there's no place like home.** After embarking on their biggest tour yet across Australia, Canada, the UK and Europe, the boys…",
    "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2245561-957953-7.jpg?v=2",
+   "featured": false
+  },
+  {
+   "title": "Summer Comedy Tour 2027",
+   "start": "2027-01-08",
+   "when": "Fri 8 Jan 2027 · 7:30pm–10:30pm",
+   "venue": "Totara Street, Mount Maunganui",
+   "desc": "**Summer Comedy Tour 2027** 'Summer Comedy' has become a legacy event in the Mount Maunganui summer calendar with it now celebrating its 10th year!",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2248031-958989-7.png?v=2",
    "featured": false
   },
   {
@@ -270,6 +261,15 @@
    "venue": "Blake Park, Mount Maunganui",
    "desc": "Aotearoa’s largest charity house tours, with some of the area’s most inspiring homes and gardens.",
    "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2211378-944959-35.png?v=4",
+   "featured": false
+  },
+  {
+   "title": "Lloyd Spiegel",
+   "start": "2027-04-07",
+   "when": "Wed 7 Apr 2027 · 7pm–10:30pm",
+   "venue": "Totara Street, Mount Maunganui",
+   "desc": "**The iconic bluesman and one of Australia’s most revered live performers, Lloyd Spiegel, brings his world-famous guitar work, soulful voice, and deeply human…",
+   "image": "https://cdn.eventfinda.co.nz/uploads/events/transformed/2245595-957962-35.png?v=2",
    "featured": false
   }
  ]

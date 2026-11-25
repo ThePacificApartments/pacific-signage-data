@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T16:01:28+00:00",
+ "generated": "2026-11-25T18:02:31+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
   {
@@ -7,8 +7,8 @@
    "loa": 306,
    "gt": 130818,
    "date": "2026-11-26",
-   "eta": "04:20",
-   "etd": "16:15",
+   "eta": "04:19",
+   "etd": "16:00",
    "pax": 3200,
    "line": "Celebrity Cruises",
    "img": "ships/celebrity-edge.jpg"
@@ -65,7 +65,7 @@
    "gt": 40844,
    "date": "2026-12-17",
    "eta": "06:40",
-   "etd": "18:15",
+   "etd": "18:25",
    "pax": 623,
    "line": "Silversea",
    "img": "ships/silver-moon.jpg",

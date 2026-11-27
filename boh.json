@@ -1,5 +1,5 @@
 {
- "built": "2026-11-28T00:00",
+ "built": "2026-11-28T04:32",
  "housekeeping": [
   {
    "d": "2026-11-28",
@@ -7,18 +7,19 @@
     "Deluxe 1 Bed": 1,
     "Deluxe 2 Bed": 7,
     "Executive 3 Bed": 2,
+    "Executive 2 Bed": 1,
     "Superior 1 Bed": 2,
     "Studio": 3,
     "Superior 2 Bed": 1
    },
    "out": {
     "Deluxe 1 Bed": 1,
-    "Deluxe 2 Bed": 3,
+    "Deluxe 2 Bed": 5,
     "Executive 3 Bed": 2,
     "Executive 2 Bed": 1,
     "Superior 1 Bed": 2,
     "Studio": 3,
-    "Superior 2 Bed": 1
+    "Superior 2 Bed": 2
    },
    "mid": {
     "Deluxe 2 Bed": 1,
@@ -36,10 +37,10 @@
     "Deluxe 1 Bed": 1,
     "Deluxe 2 Bed": 5,
     "Executive 3 Bed": 3,
-    "Executive 2 Bed": 1,
+    "Executive 2 Bed": 2,
     "Superior 1 Bed": 4,
     "Studio": 5,
-    "Superior 2 Bed": 2
+    "Superior 2 Bed": 1
    },
    "mid": {}
   },
@@ -63,7 +64,8 @@
    "in": {
     "Deluxe 1 Bed": 1,
     "Superior 1 Bed": 1,
-    "Superior 2 Bed": 1
+    "Studio": 1,
+    "Superior 2 Bed": 2
    },
    "out": {
     "Deluxe 1 Bed": 1,
@@ -82,6 +84,7 @@
     "Studio": 6
    },
    "out": {
+    "Studio": 1,
     "Superior 2 Bed": 1
    },
    "mid": {
@@ -95,7 +98,7 @@
     "Deluxe 2 Bed": 2,
     "Executive 3 Bed": 1,
     "Executive 2 Bed": 1,
-    "Studio": 3
+    "Studio": 4
    },
    "out": {
     "Deluxe 1 Bed": 2,
@@ -112,14 +115,15 @@
     "Deluxe 2 Bed": 5,
     "Executive 3 Bed": 3,
     "Executive 2 Bed": 1,
-    "Studio": 3,
+    "Studio": 4,
     "Superior 2 Bed": 1
    },
    "out": {
     "Deluxe 1 Bed": 1,
     "Deluxe 2 Bed": 2,
     "Executive 3 Bed": 1,
-    "Studio": 3
+    "Studio": 4,
+    "Superior 2 Bed": 1
    },
    "mid": {}
   },
@@ -136,7 +140,7 @@
     "Deluxe 2 Bed": 3,
     "Executive 3 Bed": 1,
     "Executive 2 Bed": 1,
-    "Studio": 1
+    "Studio": 2
    },
    "mid": {
     "Deluxe 2 Bed": 1,
@@ -192,10 +196,10 @@
    "mid": {}
   }
  ],
- "hkAsOf": "2026-11-27",
+ "hkAsOf": "2026-11-28",
  "midStay": "rms",
  "ops": {
-  "built": "2026-11-28T00:00",
+  "built": "2026-11-28T04:32",
   "audit": "2026-11-26",
   "auditLabel": "Thursday 26 November",
   "day": "2026-11-27",

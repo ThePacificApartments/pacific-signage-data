@@ -1,18 +1,7 @@
 {
- "generated": "2026-11-27T16:01:52+00:00",
+ "generated": "2026-11-28T16:01:23+00:00",
  "source": "https://www.port-tauranga.co.nz/operations/cruise-ship-schedules/",
  "visits": [
-  {
-   "ship": "Celebrity Edge",
-   "loa": 306,
-   "gt": 130818,
-   "date": "2026-11-26",
-   "eta": "04:19",
-   "etd": "16:27",
-   "pax": 3200,
-   "line": "Celebrity Cruises",
-   "img": "ships/celebrity-edge.jpg"
-  },
   {
    "ship": "Viking Venus",
    "loa": 228,
@@ -76,8 +65,8 @@
    "loa": 181,
    "gt": 30277,
    "date": "2026-12-18",
-   "eta": "08:00",
-   "etd": "18:00",
+   "eta": "07:10",
+   "etd": "19:05",
    "pax": 702,
    "line": "Azamara",
    "img": "ships/azamara-pursuit.jpg"

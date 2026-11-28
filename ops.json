@@ -6,7 +6,7 @@
  "dayLabel": "Sun 29 Nov",
  "arriving": 5.0,
  "departing": 21.0,
- "inHouse": 13.0,
+ "inHouse": 15.0,
  "occTonight": 45.5,
  "ooo": 0.0,
  "inventory": 33,
@@ -18,23 +18,23 @@
  "lastSold": 31.0,
  "lastAvail": 33.0,
  "mtdNights": 618.0,
- "snap": "2026-11-28",
+ "snap": "2026-11-29",
  "nights": [
   {
    "d": "2026-11-29",
-   "rooms": 13.0
+   "rooms": 15.0
   },
   {
    "d": "2026-11-30",
-   "rooms": 10.0
-  },
-  {
-   "d": "2026-12-01",
    "rooms": 13.0
   },
   {
+   "d": "2026-12-01",
+   "rooms": 15.0
+  },
+  {
    "d": "2026-12-02",
-   "rooms": 18.0
+   "rooms": 19.0
   },
   {
    "d": "2026-12-03",
@@ -42,15 +42,15 @@
   },
   {
    "d": "2026-12-04",
-   "rooms": 23.0
+   "rooms": 25.0
   },
   {
    "d": "2026-12-05",
-   "rooms": 23.0
+   "rooms": 25.0
   },
   {
    "d": "2026-12-06",
-   "rooms": 12.0
+   "rooms": 11.0
   },
   {
    "d": "2026-12-07",
@@ -108,20 +108,20 @@
  "months": [
   {
    "name": "November",
-   "occ": 66.4,
-   "nights": 641,
+   "occ": 66.9,
+   "nights": 646,
    "note": "stayed + booked"
   },
   {
    "name": "December",
-   "occ": 55.3,
-   "nights": 549,
+   "occ": 55.9,
+   "nights": 555,
    "note": "on the books"
   },
   {
    "name": "January",
-   "occ": 47.4,
-   "nights": 470,
+   "occ": 48.2,
+   "nights": 478,
    "note": "on the books"
   }
  ],
